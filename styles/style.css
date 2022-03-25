@@ -27,3 +27,8 @@ div {
 .content {
     background-color: var(--background-gray);
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
