@@ -162,6 +162,11 @@ button {
     grid-template-rows: auto 1fr auto;
 }
 
+h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
 .projects h1 {
     grid-column: 1 / 3;
 }
