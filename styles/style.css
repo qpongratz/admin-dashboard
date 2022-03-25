@@ -26,6 +26,10 @@ div {
     gap: 40px;
     grid-template-rows: auto auto 1fr;
     padding: 10px;
+}
+
+.logo {
+    display: flex;
     align-items: center;
 }
 
@@ -38,7 +42,10 @@ div {
     background-color: var(--background-gray);
 }
 
-a {
+.dashboard a {
     text-decoration: none;
     color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
