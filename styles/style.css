@@ -171,6 +171,14 @@ button {
     max-height: 12rem;
 }
 
+.project-actions {
+    text-align: right;
+}
+
+.project-actions a {
+    color: black;
+}
+
 h1 {
     margin: 0;
     font-size: 1.5rem;
