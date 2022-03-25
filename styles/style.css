@@ -160,18 +160,15 @@ button {
 }
 
 .projects .card {
-    box-shadow: inset 13px 0px 0px 0px #FFB224
+    box-shadow: inset 13px 0px 0px 0px #FFB224;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 .projects p,
 .announcements p {
     overflow: hidden;
     max-height: 12rem;
-}
-
-.projects .card {
-    display: grid;
-    grid-template-rows: auto 1fr auto;
 }
 
 h1 {
