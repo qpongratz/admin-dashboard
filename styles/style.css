@@ -52,6 +52,11 @@ div {
     gap: 10px;
 }
 
+.header {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
 .content {
     background-color: var(--background-gray);
 }
