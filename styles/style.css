@@ -59,6 +59,12 @@ div {
     grid-template-columns: 3fr 2fr;
 }
 
+.search {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+}
+
 img {
     border-radius: 50%;
 }
