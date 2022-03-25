@@ -28,6 +28,14 @@ div {
     padding: 10px;
 }
 
+.dashboard a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .logo {
     display: flex;
     align-items: center;
@@ -38,14 +46,14 @@ div {
     font-size: 2rem;
 }
 
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 .content {
     background-color: var(--background-gray);
 }
 
-.dashboard a {
-    text-decoration: none;
-    color: white;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
+
