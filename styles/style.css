@@ -6,6 +6,7 @@
 html, body {
     padding: 0;
     margin: 0;
+    font-weight: bold;
 }
 
 div {
@@ -89,7 +90,7 @@ button {
     border: none;
     color: white;
     height: 2rem;
-    width: 5rem;
+    width: 6rem;
     border-radius: 1rem;
 }
 
