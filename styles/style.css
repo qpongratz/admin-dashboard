@@ -147,6 +147,17 @@ button {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+.card h2 {
+    font-size: 1rem;
+    margin: 0;
+}
+
+.card p {
+    font-size: 1rem;
+    font-weight: 400;
+    margin: .2rem;
+}
+
 .projects .card {
     box-shadow: inset 13px 0px 0px 0px #FFB224
 }
