@@ -70,6 +70,22 @@ img {
     height: 2rem;
 }
 
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    align-items: center;
+}
+
+button {
+    background-color: var(--background-blue);
+    border: none;
+    color: white;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 1rem;
+}
+
 .content {
     background-color: var(--background-gray);
 }
