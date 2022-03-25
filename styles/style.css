@@ -63,7 +63,14 @@ img {
 }
 
 .welcome img {
-    height: 5rem;
+    height: 4rem;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
 }
 
 .information img {
