@@ -22,6 +22,10 @@ div {
 .dashboard {
     grid-row: 1 / -1;
     background-color: var(--background-blue) ;
+    display: grid;
+    gap: 40px;
+    grid-template-rows: auto auto 1fr;
+    padding: 10px;
 }
 
 .content {
