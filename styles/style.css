@@ -1,3 +1,8 @@
+:root {
+    --background-blue: #1992d4;
+    --background-gray: #e2e8f0;
+}
+
 html, body {
     padding: 0;
     margin: 0;
@@ -16,4 +21,9 @@ div {
 
 .dashboard {
     grid-row: 1 / -1;
+    background-color: var(--background-blue) ;
+}
+
+.content {
+    background-color: var(--background-gray);
 }
