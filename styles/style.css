@@ -58,6 +58,18 @@ div {
     grid-template-columns: 2fr 1fr;
 }
 
+img {
+    border-radius: 50%;
+}
+
+.welcome img {
+    height: 5rem;
+}
+
+.information img {
+    height: 2rem;
+}
+
 .content {
     background-color: var(--background-gray);
 }
