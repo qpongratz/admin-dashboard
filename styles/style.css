@@ -136,8 +136,8 @@ button {
     padding: 2rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 4rem repeat(3, 15rem);
-    gap: 2rem;
+    grid-template-rows: 2rem repeat(3, 15rem);
+    gap: 1rem;
 }
 
 .card {
