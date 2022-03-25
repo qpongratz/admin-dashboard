@@ -135,12 +135,19 @@ button {
     padding: 2rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 4rem;
+    grid-template-rows: 4rem repeat(3, 15rem);
     gap: 2rem;
 }
 
+.projects p,
+.announcements p {
+    overflow: hidden;
+    max-height: 12rem;
+}
+
 .projects .card {
-    height: 15rem;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 .projects h1 {
@@ -154,5 +161,3 @@ button {
 .trending {
     grid-area: trending;
 }
-
-
