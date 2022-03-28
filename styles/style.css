@@ -223,6 +223,11 @@ h1 {
     grid-template-rows: auto 1fr;
 }
 
+.announcements .card {
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+}
+
 .trending .card{
     display: grid;
     grid-template-rows: repeat(4, 1fr);
