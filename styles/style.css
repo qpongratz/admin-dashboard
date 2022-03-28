@@ -99,8 +99,12 @@ div {
     align-self: start;
 }
 
-.welcome img {
+.welcome .avatar {
     height: 4rem;
+}
+
+.trending .avatar,
+.welcome .avatar {
     grid-area: 1 / 1 / 3 / 2;
     margin-right: 10px;
 }
