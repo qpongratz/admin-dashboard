@@ -172,6 +172,7 @@ button {
 
 .project-actions {
     text-align: right;
+    letter-spacing: .5rem;
 }
 
 .project-actions a {
