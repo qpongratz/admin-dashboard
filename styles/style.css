@@ -82,7 +82,7 @@ div {
     border-radius: 50%;
 }
 
-.welcome {
+.welcome, .trending-project {
     display: grid;
     grid-template-columns: auto 1fr;
     grid-template-rows: 1fr 1fr;
