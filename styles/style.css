@@ -19,7 +19,7 @@ div {
     height: 100vh;
     display: grid;
     grid-template-columns: minmax(300px, 1fr) 5fr;
-    grid-template-rows: 1fr 5fr;
+    grid-template-rows: 9rem 1fr;
 }
 
 .dashboard {
