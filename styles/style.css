@@ -194,3 +194,8 @@ h1 {
 .trending {
     grid-area: trending;
 }
+
+.announcements, .trending {
+    display: grid;
+    grid-template-rows: auto 1fr;
+}
