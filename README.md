@@ -13,7 +13,4 @@ Create an admin dashboard to practice more html and css, specifically using grid
 * Got some experience with different google fonts and using their icon packs.
 * I feel like this is the most organized I've been with the css and html yet, but I'm sure I've got ways to go in that department.
 
-
-Photo attribution: https://unsplash.com/photos/6tUdJ3fWgBg
-
 Photo by [Tengyart](https://unsplash.com/photos/6tUdJ3fWgBg) on [Unsplash](https://unsplash.com/).
