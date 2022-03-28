@@ -235,6 +235,7 @@ h1 {
 
 .trending .user-name {
     align-self: end;
+    font-weight: bold;
 }
 
 .trending .project-name {
