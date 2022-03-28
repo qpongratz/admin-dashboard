@@ -109,6 +109,10 @@ div {
     margin-right: 10px;
 }
 
+.trending .avatar {
+    height: 2.5rem;
+}
+
 .information {
     display: flex;
     justify-content: center;
