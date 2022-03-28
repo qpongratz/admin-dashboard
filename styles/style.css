@@ -73,6 +73,7 @@ div {
     border: none;
     background-color: var(--background-gray);
     height: 1.5rem;
+    padding-left: 1rem;
 }
 
 img {
