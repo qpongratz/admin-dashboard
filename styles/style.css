@@ -11,10 +11,6 @@ html, body {
     font-family: "Quicksand", sans-serif;
 }
 
-div {
-    border: 1px solid;
-}
-
 .container {
     height: 100vh;
     display: grid;
